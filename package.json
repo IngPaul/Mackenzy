@@ -1,0 +1,19 @@
+{
+  "name": "makenzy",
+  "version": "1.0.0",
+  "description": "sistema para gimnacios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngPaul/Mackenzy.git"
+  },
+  "author": "Paul Cuichan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngPaul/Mackenzy/issues"
+  },
+  "homepage": "https://github.com/IngPaul/Mackenzy#readme"
+}
